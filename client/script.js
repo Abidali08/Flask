@@ -1,4 +1,4 @@
-URL = 'https://refactored-sniffle-4wp7px575x4f7756-5000.app.github.dev';
+const URL = 'http://127.0.0.1:5000';
 
 document.getElementById("userForm").addEventListener("submit",async(e)=>{
     e.preventDefault();
